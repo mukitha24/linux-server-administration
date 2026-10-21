@@ -69,6 +69,8 @@ linux-server-project/
 ├── logs/
 └── scripts/
 ```
+## Deployed Webpage
+![My deployed webpage](screenshots/nginx-web-page.png)
 
 ## Future Improvements
 
