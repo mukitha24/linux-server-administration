@@ -35,6 +35,10 @@ I created a custom HTML webpage and deployed it to Nginx's default document root
 
 I verified the deployment by opening `http://localhost` in my browser and testing the server response with `curl`.
 
+## Deployed Webpage
+
+![My deployed webpage](screenshots/nginx-web-page.png)
+
 ## Useful Commands
 
 ```bash
